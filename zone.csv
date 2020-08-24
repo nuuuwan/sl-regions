@@ -1,0 +1,10 @@
+zone_id,name,population,country_id
+Z-01,94% ≤ Sinhala-Buddhist ≤ 100%,4182186,LK
+Z-02,87% ≤ Sinhala-Buddhist < 94%,4408348,LK
+Z-03,76% ≤ Sinhala-Buddhist < 87%,4043948,LK
+Z-04,50% < Sinhala-Buddhist < 76%,3332547,LK
+Z-05,50% < Sinhala-Christian,272646,LK
+Z-06,50% < Tamil-Hindu,1855638,LK
+Z-07,50% < Tamil-Christian,150061,LK
+Z-08,50% < Muslim/Malay-Islam,720383,LK
+Z-09,Other,1393297,LK
